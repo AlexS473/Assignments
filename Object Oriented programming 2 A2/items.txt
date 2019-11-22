@@ -1,0 +1,9 @@
+Popcorn	10.00
+Nachos	10.00
+Pizza	15.00
+Fries	5.00
+Hotdog	10.00
+Cake	5.00
+Soft-drink	5.00
+Coffee	7.00
+Water	5.00
