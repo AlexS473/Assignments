@@ -1,0 +1,107 @@
+@import url(//db.onlinewebfonts.com/c/f4d1593471d222ddebd973210265762a?family=Pokemon);
+@font-face {font-family: "Pokemon"; src: url("//db.onlinewebfonts.com/t/f4d1593471d222ddebd973210265762a.eot");
+    src: url("//db.onlinewebfonts.com/t/f4d1593471d222ddebd973210265762a.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/f4d1593471d222ddebd973210265762a.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/f4d1593471d222ddebd973210265762a.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/f4d1593471d222ddebd973210265762a.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/f4d1593471d222ddebd973210265762a.svg#Pokemon") format("svg"); }
+
+.topnav{
+    position: fixed;
+    background-color: #FF0000;
+    width: 100%;
+    height: 100px;
+}
+.title{
+    float:left;
+    padding-left: 20px;
+    font-family: Pokemon;
+    font-size: 20px;
+}
+
+
+.listlink{
+    float: right;
+    color: #3B4CCA;
+    text-decoration: none;
+    font-family: 'Noto Sans KR', sans-serif;
+    padding-top: 10px;
+    padding-right: 30px;
+}
+
+.list{
+    padding-top: 2px;
+    padding-left: 0px;
+    width: 150px;
+    float:left;
+    display: inline-block;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+
+.navbar {
+    margin-top: 80px;
+    max-height: 600px;
+    overflow: scroll;
+    text-transform:capitalize;
+    background-color: #3B4CCA;
+    padding: 20px;
+    width: 120px;
+}
+
+
+.navbar::-webkit-scrollbar {
+    width: 20px;
+}
+
+
+.navbar::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+
+.navbar::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}
+
+
+.navbar::-webkit-scrollbar-thumb:hover {
+    background: #CC0000;
+}
+
+.collection-item {
+    float: left;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.collection-item:hover {
+    background-color: #FFDE00;
+}
+
+.display-div{
+    float: left;
+    padding-top: 100px;
+    padding-left: 20px;
+    width:300px;
+    display: inline-block;
+
+
+}
+.display{
+    font-size: 20px;
+    text-transform:capitalize;
+    text-align: center;
+    padding-left: 50px;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.filler{
+    color:#FFDE00;
+}
+
+
+
